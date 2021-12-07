@@ -1,0 +1,156 @@
+.font {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.fontBebas{
+    font-family: 'Bebas Neue',cursive;
+}
+.bgBlack{
+    background-color: #10171E;
+}
+.bgYellow{
+    background-color: #FFB633;
+}
+.bgSemiBlack{
+    background-color: #313131;
+}
+.bgBlackNav{
+    background-color: #10171E;
+}
+
+.navTitle{
+    padding: 5px 20px;
+    border: 2px solid #FFB633;
+    transform: rotate(-5deg);
+}
+.textNav{
+    color: #FFB633 !important;
+}
+.textName{
+    color: #E7A14A !important;
+    letter-spacing: 2px;
+    font-size: 80px;
+}
+.textJob{
+    font-size: 20px;
+}
+
+.imageJumbotron{
+    position: absolute;
+    z-index: 200;
+    width: 325px;
+    height: 325px;
+    left: -120px;
+    top: 28px;
+    overflow: hidden;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 10px;
+}
+.imageJumbotron img{
+    width: auto;
+    height: 340px;
+    position: absolute;
+    left: -100px !important;
+}
+
+.buttonHire{
+    border: 2px solid #E7A14A !important;
+    width: 120px;
+    color: #E7A14A !important;
+    font-size: 14px !important;
+}
+.psLine{
+    padding-left: 150px !important;
+    padding-right: 150px !important;
+}
+
+.psJumbotron{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.textAbout{
+    font-size: 30px;
+    color: white;
+    text-decoration: underline;
+    text-underline-offset: 5px;
+    text-decoration-color: white !important;
+}
+.textSkill{
+    font-size: 25px;
+    position: absolute;
+    z-index: 200px;
+    top: -25px;
+    left: -15px;
+    border: 2px solid #E7A14A;
+    color: #E7A14A;
+    background-color: #10171E;
+    border-radius: 5px;
+    width: 100px;
+    font-size: 20px;
+    transform: rotate(-10deg);
+}
+.skillDetail{
+    border-radius: 5px;
+    font-size: 16px;
+    letter-spacing: 1px;
+    border: 1px solid #E7A14A;
+    margin-right: 150px !important;
+    font-family: 'Bebas Neue',
+    cursive;
+}
+
+.project {
+    width: 80%;
+    background-color: #313131;
+    border-radius: 5px;
+}
+.imageProject{
+    width: 100%;
+    height: auto;
+}
+
+
+.textYellow{
+    color: #E7A14A ;
+}
+.btnRepo{
+    font-size: 12px !important;
+}
+.titleProject{
+    font-size: 20px;
+    color: #E7A14A;
+    letter-spacing: 2px;
+    
+}
+.projectSubTitle{
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 10px !important;
+}
+.projectDetail{
+    font-size: 12px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.buildText{
+    font-size: 14px;
+    color: #E7A14A;
+}
+
+.fs{
+    font-size: 18px;
+}
+.borderProject{
+    border: 2px solid #E7A14A !important;
+    border-radius: 3px;
+    max-height: 330px;
+    min-height: 330px;
+}
+
+.teamBorder{
+    border: 2px solid #E7A14A !important;
+    border-radius: 3px;
+    max-height: 380px;
+    min-height: 330px;
+}
